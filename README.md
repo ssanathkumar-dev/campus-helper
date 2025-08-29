@@ -110,3 +110,8 @@ License
 This project is protected under a Custom College License (All Rights Reserved).
 Usage, reproduction, or modification requires written permission from the project team and HoD, Department of CS&BS, MITM.
 see the [LICENSE](LICENSE) file for details.
+
+---
+
+Contact
+[S.Sanath Kumar] - [s.sanath.kumar.dev@gmail.com]
