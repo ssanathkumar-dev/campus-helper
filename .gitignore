@@ -18,7 +18,7 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Build / dist folders (if you build JS/CSS later)
+# Build / dist folders (if incase building JS/CSS later)
 dist/
 build/
 
