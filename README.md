@@ -1,5 +1,9 @@
 Campus Helper
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
 Campus Helper is a web-based application developed as part of an academic project at
 Maharaja Institute of Technology, Mysore (MITM).
 It integrates multiple smart modules into one platform, helping students, staff, and visitors save time, stay informed, and navigate the campus more effectively.
@@ -105,4 +109,4 @@ License
 
 This project is protected under a Custom College License (All Rights Reserved).
 Usage, reproduction, or modification requires written permission from the project team and HoD, Department of CS&BS, MITM.
-see the LICENSE file for details
+see the [LICENSE](LICENSE) file for details.
