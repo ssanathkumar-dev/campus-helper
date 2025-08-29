@@ -1,0 +1,27 @@
+# Node / package managers (if used later)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment & credentials
+.env
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Build / dist folders (if you build JS/CSS later)
+dist/
+build/
+
+# Backup / temp
+*.bak
+*.tmp
